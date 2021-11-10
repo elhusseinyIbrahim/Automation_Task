@@ -8,7 +8,7 @@ This is where I Show My Knowledge and Skills in Test Automation!
 * Page Object Model (POM) design pattern
 * Data Driven framework
 * Fluent design approach (method chaining)
-* Implementing the ***Test Automation Pyramid*** by have 2 different test automation levels which are SERVICE and GUI layers
+* Implementing the ***Test Automation Pyramid*** by having 2 different test automation levels which are SERVICE and GUI layers
 * Attaching a screenshot to the ***Allure Report***  report (in case of gui)  
 * Attaching the response body to the ***Allure Report***  report (in case of api)
 
